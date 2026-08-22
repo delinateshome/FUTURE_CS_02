@@ -80,9 +80,9 @@ Users should:
 ## Files in This Repository
 
 - `Phishing_Detection_Awareness_Report.pdf` — Final report for the task.
-- `sample_01.txt` — Account lock phishing sample and analysis.
-- `sample_02.txt` — Fake delivery phishing sample and analysis.
-- `sample_03.txt` — Unusual login phishing sample and analysis.
+- `sample_01.docx` — Account lock phishing sample and analysis.
+- `sample_02.docx` — Fake delivery phishing sample and analysis.
+- `sample_03.docx` — Unusual login phishing sample and analysis.
 
 ## Note
 
